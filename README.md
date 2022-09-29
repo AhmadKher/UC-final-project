@@ -23,7 +23,7 @@ HACK CHAT
 # Idea
 
 
-an app to gather my hacking group during the attacks , 
+an app to gather my hacking group during the attacks , so we can chat in a safe place 
 
 for the first time  u have to register using email and password , then u can use the app , if u signed up before u can log in directly , 
 
